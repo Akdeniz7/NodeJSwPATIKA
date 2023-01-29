@@ -1,5 +1,5 @@
 /* function getData(data) {
-    return new Promise((resolve, reject) => { // promise dönüyoruz.
+    return new Promise((resolve, reject) => { 
       console.log("Veriler alınmaya çalışılıyor..");
   
       if (data) {
