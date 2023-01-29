@@ -15,4 +15,4 @@ const addBook = (newBook, callback) => {
     callback();
 };
 
-addBook({name: 'Kitap 4', author: 'Yazar 3'}, listBooks);
+addBook({name: 'Kitap 4', author: 'Yazar 4'}, listBooks);
