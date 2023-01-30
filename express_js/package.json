@@ -1,0 +1,22 @@
+{
+  "name": "nodejswpatika",
+  "version": "1.0.0",
+  "description": "Bu proje, Patika.dev de aldığım Node.JS eğitimindeki kavramlarını daha iyi anlamak için oluşturulmuştur.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akdeniz7/NodeJSwPATIKA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akdeniz7/NodeJSwPATIKA/issues"
+  },
+  "homepage": "https://github.com/Akdeniz7/NodeJSwPATIKA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
